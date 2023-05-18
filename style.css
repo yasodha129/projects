@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Lobster', cursive;
+}
+h1{
+    color:aqua;
+}
+h2{
+    color:aquamarine;
+}
+h3{
+    color:bisque;
+}
+h4{
+    color:blueviolet;
+}
+h5{
+    color:brown;
+}
+h6{
+    color:blue;
+}
+p{
+    color:darkolivegreen;
+}
+ol{
+    color:darkorange;
+}
+ul{
+    color:crimson;
+}
+table{
+    color:darkcyan;
+}
+form{
+    color:darksalmon;
+}
